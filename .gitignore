@@ -1,1 +1,7 @@
 .idea
+
+# ignore gradle building folder
+.gradle
+.intellijPlatform
+.qodana
+build
