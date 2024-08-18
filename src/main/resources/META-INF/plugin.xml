@@ -11,5 +11,9 @@
                 id="com.github.idrisaitmoulay.boxtool.settings.BoxToolProjectSetting"
                 displayName="Box Tool"
         />
+        <toolWindow
+                id="BoxTool"
+                factoryClass="com.github.idrisaitmoulay.boxtool.toolwindow.BoxToolWindowFactory"
+        />
     </extensions>
 </idea-plugin>
